@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// Time complexity is : O(n^2)
 public class BubbleSort {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
