@@ -1,4 +1,5 @@
 import java.util.Scanner;
+// Time complexity is : O(log n)
 
 public class BinarySearch {
     public static void main(String[] args) {
